@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a5ba3b7-48d1-4b3f-a3c7-67a076be159a" name="Changes" comment="part of recent revision">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_3_44_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_3_44_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather.db" beforeDir="false" afterPath="$PROJECT_DIR$/weather.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master2" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;agrear5&quot;,
+      &quot;fullname&quot;: &quot;Arcilfe Grear&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/wgu-gitlab-environment/student-repos/agrear5/d493-scripting-and-programming-applications.git&quot;,
+    &quot;second&quot;: &quot;075a49ca-0125-499e-802f-d35a8402e803&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lOEext5np2VoNphYpwNCXw6LqH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.part_c2_only.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weather_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weatherdata_c2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main__project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
+        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a5ba3b7-48d1-4b3f-a3c7-67a076be159a" name="Changes" comment="" />
+      <created>1725042822282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725042822282</updated>
+      <workItem from="1725042823531" duration="765000" />
+      <workItem from="1725043622490" duration="869000" />
+      <workItem from="1725044523415" duration="274000" />
+      <workItem from="1725044810295" duration="648000" />
+      <workItem from="1725045480936" duration="283000" />
+      <workItem from="1725045776131" duration="877000" />
+      <workItem from="1725053829723" duration="5043000" />
+      <workItem from="1725060249048" duration="4646000" />
+      <workItem from="1725067807871" duration="192000" />
+      <workItem from="1725118433600" duration="618000" />
+      <workItem from="1725376701770" duration="8790000" />
+      <workItem from="1725388077031" duration="54000" />
+      <workItem from="1725413643314" duration="657000" />
+      <workItem from="1725479108859" duration="1842000" />
+      <workItem from="1725481067737" duration="112000" />
+      <workItem from="1727366699537" duration="1830000" />
+      <workItem from="1728942919934" duration="56000" />
+      <workItem from="1728943078799" duration="452000" />
+      <workItem from="1728943581361" duration="147000" />
+      <workItem from="1743622571817" duration="126000" />
+      <workItem from="1743622977492" duration="127000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created weather_data file to process GET request from opemmeteo. I already finished the project before doing GIT steps.">
+      <option name="closed" value="true" />
+      <created>1725044763703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725044763703</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is for part c1 in the task">
+      <option name="closed" value="true" />
+      <created>1725045083342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725045083342</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This weatherdatac2 file is only for part c2 and is needed for file c2 file to run.">
+      <option name="closed" value="true" />
+      <created>1725045680334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725045680334</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Previous commit &amp; push, wrong code was submitted">
+      <option name="closed" value="true" />
+      <created>1725046023168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725046023168</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Edited code">
+      <option name="closed" value="true" />
+      <created>1725046315180</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725046315180</updated>
+    </task>
+    <task id="LOCAL-00006" summary="This is for part c2 only. Edited comment">
+      <option name="closed" value="true" />
+      <created>1725047058758</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725047058758</updated>
+    </task>
+    <task id="LOCAL-00007" summary="This is for part c3">
+      <option name="closed" value="true" />
+      <created>1725047242360</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725047242360</updated>
+    </task>
+    <task id="LOCAL-00008" summary="This is for part c4">
+      <option name="closed" value="true" />
+      <created>1725047357118</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725047357118</updated>
+    </task>
+    <task id="LOCAL-00009" summary="This is for part c4 &amp; c5">
+      <option name="closed" value="true" />
+      <created>1725052528793</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725052528794</updated>
+    </task>
+    <task id="LOCAL-00010" summary="no comment needed">
+      <option name="closed" value="true" />
+      <created>1725052559934</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725052559934</updated>
+    </task>
+    <task id="LOCAL-00011" summary="This is for part c3 and c5">
+      <option name="closed" value="true" />
+      <created>1725052780935</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725052780935</updated>
+    </task>
+    <task id="LOCAL-00012" summary="This is for part c4,c5, c6">
+      <option name="closed" value="true" />
+      <created>1725052872793</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725052872793</updated>
+    </task>
+    <task id="LOCAL-00013" summary="This is for part D">
+      <option name="closed" value="true" />
+      <created>1725053142774</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725053142774</updated>
+    </task>
+    <task id="LOCAL-00014" summary="no comment needed">
+      <option name="closed" value="true" />
+      <created>1725053310613</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725053310614</updated>
+    </task>
+    <task id="LOCAL-00015" summary="no comment needed">
+      <option name="closed" value="true" />
+      <created>1725053558897</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725053558897</updated>
+    </task>
+    <task id="LOCAL-00016" summary="no comments needed">
+      <option name="closed" value="true" />
+      <created>1725053655012</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725053655012</updated>
+    </task>
+    <task id="LOCAL-00017" summary="no comments needed">
+      <option name="closed" value="true" />
+      <created>1725053713369</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725053713369</updated>
+    </task>
+    <task id="LOCAL-00018" summary="no comments needed">
+      <option name="closed" value="true" />
+      <created>1725053872083</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725053872083</updated>
+    </task>
+    <task id="LOCAL-00019" summary="This is for part E">
+      <option name="closed" value="true" />
+      <created>1725054013906</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725054013906</updated>
+    </task>
+    <task id="LOCAL-00020" summary="This is the database">
+      <option name="closed" value="true" />
+      <created>1725054100110</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725054100110</updated>
+    </task>
+    <task id="LOCAL-00021" summary="editing the code, ensuring it only runs on this file">
+      <option name="closed" value="true" />
+      <created>1725119023210</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725119023210</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Deleting files for part c2 only. Program edited">
+      <option name="closed" value="true" />
+      <created>1725379818585</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725379818585</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added methods for part c2 into main and weather_data files. Edited program per revision instruction.">
+      <option name="closed" value="true" />
+      <created>1725384246313</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725384246314</updated>
+    </task>
+    <task id="LOCAL-00024" summary="part of recent revision">
+      <option name="closed" value="true" />
+      <created>1725384292429</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725384292429</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main_project" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created weather_data file to process GET request from opemmeteo. I already finished the project before doing GIT steps." />
+    <MESSAGE value="This is for part c1 in the task. Created weather_data file to process GET request from opemmeteo. I already finished the project before doing GIT steps." />
+    <MESSAGE value="This weatherdatac2 file is only for part c2 and is needed for file c2 file to run." />
+    <MESSAGE value="This is for part c1 in the task" />
+    <MESSAGE value="This is for part c1 in the task" />
+    <MESSAGE value="Edited code. This is for part c2 only" />
+    <MESSAGE value="Edited code. This is for part c2 only" />
+    <MESSAGE value="Edited code. This is for part C.2" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main_project' into main_project" />
+    <MESSAGE value="This is for part c2 only. Edited comment" />
+    <MESSAGE value="This is for part c3 &amp; c5" />
+    <MESSAGE value="This is for part c4" />
+    <MESSAGE value="This is for part c3 &amp; c5" />
+    <MESSAGE value="This is for part c4 &amp; c5" />
+    <MESSAGE value="This is for part c3 and c5" />
+    <MESSAGE value="This is for part c4,c5, c6" />
+    <MESSAGE value="This is for part D" />
+    <MESSAGE value="no comment needed" />
+    <MESSAGE value="no comments needed" />
+    <MESSAGE value="This is for part E" />
+    <MESSAGE value="This is the database" />
+    <MESSAGE value="editing the code, ensuring it only runs on this file" />
+    <MESSAGE value="Deleting files for part c2 only. Program edited" />
+    <MESSAGE value="Added methods for part c2 into main and weather_data files. Edited program per revision instruction." />
+    <MESSAGE value="part of recent revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="part of recent revision" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/d493_scripting_and_programming_applications$c2.coverage" NAME="c2 Coverage Results" MODIFIED="1725043166310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weatherforecast" />
+    <SUITE FILE_PATH="coverage/d493_scripting_and_programming_applications$.coverage" NAME=" Coverage Results" MODIFIED="1725481104975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d493_scripting_and_programming_applications$weather_data.coverage" NAME="weather_data Coverage Results" MODIFIED="1725481009082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d493_scripting_and_programming_applications$part_c2_only.coverage" NAME="part_c2_only Coverage Results" MODIFIED="1725118941477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d493_scripting_and_programming_applications$main.coverage" NAME="main Coverage Results" MODIFIED="1725481133172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d493_scripting_and_programming_applications$weatherdata_c2.coverage" NAME="weatherdata_c2 Coverage Results" MODIFIED="1725055923000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d493_scripting_and_programming_applications$database.coverage" NAME="database Coverage Results" MODIFIED="1725053242954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
