@@ -1,0 +1,5 @@
+[flake8]
+ignore = F401, E261, W291, F841, E302, E305
+
+# Increase max line length to 200 char
+max-line-length = 200
